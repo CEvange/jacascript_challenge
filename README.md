@@ -1,1 +1,1 @@
-# jacascript_challenge
+# javascript_challenge
